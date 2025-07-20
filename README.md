@@ -59,7 +59,7 @@ This project is for educational and experimental purposes only. It should **not*
 
 🤝 Credits
 
-- **Dataset Source:** [Kaggle - Apple Historical Stock Data](https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data)
-- **Developed by: Divya Chauhan
+- Dataset Source: [Kaggle - Apple Historical Stock Data](https://www.kaggle.com/datasets/tarunpaparaju/apple-aapl-historical-stock-data)
+- Developed by: Divya Chauhan
 
 
